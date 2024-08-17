@@ -1,9 +1,8 @@
-import 'package:cinemapedia/config/presentation/providers/movies/movies_slideshow_provider.dart';
-import 'package:cinemapedia/config/presentation/providers/providers.dart';
+import 'package:cinemapedia/presentation/providers/movies/movies_slideshow_provider.dart';
+import 'package:cinemapedia/presentation/providers/providers.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:cinemapedia/config/presentation/providers/movies/movies_providers.dart';
-import 'package:cinemapedia/config/presentation/widgets/widgets.dart';
+import 'package:cinemapedia/presentation/widgets/widgets.dart';
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});

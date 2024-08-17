@@ -1,5 +1,5 @@
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:cinemapedia/config/presentation/providers/movies/movies_providers.dart';
+import 'package:cinemapedia/presentation/providers/movies/movies_providers.dart';
 
 
 
